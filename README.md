@@ -3,4 +3,8 @@
 3. Practical implementation of simple linear regression without using scikit learn library
 5. Practical implementation of simple linear and multiple linear regression using scikit learn <height-weight.csv is used for illustrating the simple linear regression>
 6. Ridge regression, Lasso regression, Elastic net regression
-7. Practical implementation for Ridge regression, Lasso regression, Elastic net regression using python
+7. Practical implementation for Ridge regression, Lasso regression, Elastic net regression using python <included in the end to end ML agorithm github)
+   Link:
+   https://github.com/karrinethaji/Linear-regression-end-to-end-ML-project
+   Refer "Model-training-all regression-models + Creating the pickle file for best model and standardScaler object.ipynb"
+
